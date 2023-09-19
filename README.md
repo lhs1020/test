@@ -1,2 +1,3 @@
-# test
-repository for test
+# 20 이희수
+
+README.md for SDP
